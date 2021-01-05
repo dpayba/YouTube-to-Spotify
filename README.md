@@ -1,6 +1,8 @@
 # youtube-to-spotify-bot
 
-Utilizes the YouTube and Spotify API to transfer music from YouTube to Spotify
+Utilizes the YouTube and Spotify developer API to transfer music from YouTube to Spotify
 
 TO USE:
-Requires a Spotify authentication token from the Spotify Developer API
+[] Register for a Spotify developer account
+[] Add your client_id and client_secret to the file
+[] Request a Spotify authentication token and add to code
